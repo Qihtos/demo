@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/engine/exercises.ts","./src/engine/index.ts","./src/engine/math.ts","./src/engine/session.ts","./src/engine/types.ts","./src/engine/__tests__/math.test.ts","./src/engine/__tests__/session.test.ts","./src/engine/__tests__/storage.test.ts","./src/lib/storage.ts","./src/test/setup.ts"],"version":"5.9.3"}
